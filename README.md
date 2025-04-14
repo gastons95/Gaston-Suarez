@@ -1,6 +1,6 @@
 # Gaston-Suarez
 1 Sprint:
-Mi pagina web va dirigida especificamente a la venta de ropa, tanto formal como trajes de vestir o ropa informal como son remeras, pantalones y ropa mas casual
+Mi pagina web va dirigida especificamente a la venta, de computadoras gamer y sus componentes, y  de ropa, tanto formal como trajes de vestir o ropa informal como son remeras, pantalones y ropa mas casual
 en lo personal me gusta mucho, por ques el algo que se utiliza muchisimo ya que ahora la mayoria de las cosas se hace mediante una pagina web o aplicacion web
 
 los sitios que voy a usar como referencia son los siguientes :
